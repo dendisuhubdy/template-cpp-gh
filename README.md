@@ -1,2 +1,3 @@
-# HelloWorld
-A C++ Hello World project, using CMake, and GitHub Actions 
+# C++ Template Project 
+
+A C++  project, using CMake, and GitHub Actions 
